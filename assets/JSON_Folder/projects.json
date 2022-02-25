@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "imgPath":"assets/images/p1.png",
+      "name": "DevFolio",
+      "overview": "This projects was the first bootstrap task..",
+      "liveLink": "https://devfoliowebsite.netlify.app/",
+      "tags": ["HTML", "CSS", "Bootstrap", "Fontawsome"]
+    },
+    {
+      "imgPath":"assets/images/p2.png",
+      "name": "Kerri",
+      "overview": "Training on bootstrap..",
+      "liveLink": "https://kerriwebsite.netlify.app/",
+      "tags": ["HTML", "CSS", "Bootstrap", "Fontawsome"]
+    },
+    {
+      "imgPath":"assets/images/p3.png",
+      "name": "Bookmarker",
+      "overview": "Simple Bookmarker to save your important links..",
+      "liveLink": "https://localstoragebookmarker.netlify.app/",
+      "tags": ["HTML", "CSS", "Bootstrap", "Fontawsome", "JS", "Localstorage"]
+    },
+    {
+      "imgPath":"assets/images/p4.png",
+      "name": "Covid-19 Stats",
+      "overview": "Let's see the statistics of corona virus around the world..",
+      "liveLink": "https://covid-19information.netlify.app/",
+      "tags": ["HTML", "CSS", "Bootstrap", "Fontawsome", "js", "API"]
+    },
+    {
+      "imgPath":"assets/images/p5.png",
+      "name": "Hooray Heroes",
+      "overview": "Build your character with your own style..",
+      "liveLink": "https://hoorayheroes.netlify.app/",
+      "tags": ["HTML", "CSS", "Bootstrap", "Fontawsome", "js"]
+    },
+    {
+      "imgPath":"assets/images/p6.png",
+      "name": "Farfshny",
+      "overview": "Farfshny helps you to get out of an exhausting day by some skills like jokes and some interesting hopes..",
+      "liveLink": "https://hoorayheroes.netlify.app/",
+      "tags": ["HTML5", "CSS3", "Bootstrap", "Fontawsome", "ES6"]
+    }
+  ]
+}
